@@ -1,0 +1,101 @@
+Patient_ID,Name,Age,Gender,BMI,Blood_Pressure,Cholesterol,Glucose,Heart_Rate,Smoking,Alcohol_Intake,Physical_Activity,Disease
+P001,Neha Joshi,65,Male,26.4,140,220,91,61,No,No,Medium,Hypertension
+P002,Rahul Jain,53,Male,21.0,121,210,90,86,No,No,Low,Heart Disease
+P003,Sneha Gupta,40,Male,29.4,110,280,118,79,No,Yes,Medium,None
+P004,Ravi Mehta,62,Male,28.9,111,210,125,84,Yes,No,Medium,Heart Disease
+P005,Ananya Das,29,Female,30.2,144,258,106,69,Yes,Yes,Low,None
+P006,Simran Kaur,20,Male,20.7,133,180,165,87,Yes,Yes,Medium,None
+P007,Ravi Mehta,42,Female,31.8,124,229,172,71,No,Yes,High,None
+P008,Neha Joshi,38,Female,30.1,117,240,142,74,No,Yes,Low,Heart Disease
+P009,Meena Patel,78,Female,34.4,140,208,96,65,No,No,Low,Hypertension
+P010,Sneha Gupta,44,Male,27.9,151,220,140,79,Yes,No,Low,Hypertension
+P011,Neha Joshi,56,Female,22.0,151,169,80,61,No,Yes,Medium,Heart Disease
+P012,Deepa Sethi,68,Female,26.1,118,262,109,87,No,No,Low,Hypertension
+P013,Ananya Das,41,Male,26.4,151,272,148,73,No,Yes,High,None
+P014,Suresh Yadav,61,Female,31.0,153,239,193,76,No,Yes,Low,None
+P015,Tina Khanna,28,Male,20.8,143,199,179,75,No,No,Low,Hypertension
+P016,Rahul Jain,18,Female,29.2,149,170,77,83,No,No,Low,Hypertension
+P017,Rahul Jain,44,Male,27.9,158,258,81,72,Yes,Yes,Low,None
+P018,Pooja Nair,77,Female,33.2,114,153,190,87,No,Yes,Low,Diabetes
+P019,Ravi Mehta,58,Female,32.3,125,180,165,99,Yes,Yes,Low,Diabetes
+P020,Tina Khanna,80,Female,31.6,148,270,184,95,No,No,Low,Hypertension
+P021,Ajay Kumar,40,Female,34.7,111,219,70,90,No,Yes,Low,Hypertension
+P022,Anil Chauhan,69,Female,28.4,138,163,117,97,Yes,No,Medium,Hypertension
+P023,Anil Chauhan,28,Male,24.4,148,274,122,92,Yes,No,Low,Diabetes
+P024,Amit Bhatia,78,Female,26.8,154,212,115,65,Yes,Yes,High,Hypertension
+P025,Ajay Kumar,28,Female,32.8,125,196,148,68,Yes,Yes,High,Diabetes
+P026,Suresh Yadav,69,Male,19.4,130,260,139,64,No,Yes,High,Hypertension
+P027,Ajay Kumar,24,Female,28.7,142,220,150,99,Yes,No,High,None
+P028,Rahul Jain,70,Female,34.2,117,243,156,91,No,No,Medium,None
+P029,Neha Joshi,53,Female,34.5,139,267,113,66,Yes,Yes,Medium,Heart Disease
+P030,Simran Kaur,25,Male,29.3,152,219,100,87,No,No,Low,Heart Disease
+P031,Kavita Rao,31,Female,32.4,136,207,136,72,No,Yes,Low,None
+P032,Ananya Das,54,Female,27.1,157,242,113,97,Yes,No,Low,Heart Disease
+P033,Meena Patel,61,Male,31.6,140,154,78,91,Yes,Yes,Low,Hypertension
+P034,Vikas Pandey,54,Female,30.6,140,217,129,90,Yes,No,High,Hypertension
+P035,Simran Kaur,64,Male,25.5,134,259,93,60,Yes,Yes,Medium,Diabetes
+P036,Ravi Mehta,19,Female,27.8,137,159,159,87,Yes,No,High,Hypertension
+P037,Pooja Nair,76,Male,24.6,158,263,100,80,No,No,Medium,Heart Disease
+P038,Priya Singh,64,Female,29.1,119,157,194,75,Yes,No,Medium,None
+P039,Neha Joshi,59,Male,34.8,126,270,173,65,No,Yes,Medium,Hypertension
+P040,Tina Khanna,56,Male,21.7,132,179,167,86,No,Yes,Low,Hypertension
+P041,Ajay Kumar,19,Male,19.2,155,200,109,96,No,Yes,Low,Heart Disease
+P042,Anil Chauhan,33,Female,23.7,151,189,166,88,No,No,Medium,None
+P043,Meena Patel,43,Female,31.5,138,164,198,64,No,No,High,Diabetes
+P044,Ravi Mehta,50,Male,24.5,154,243,196,100,No,Yes,High,Diabetes
+P045,Suresh Yadav,46,Female,28.1,157,258,148,88,No,Yes,High,Heart Disease
+P046,Priya Singh,52,Female,18.6,145,192,199,82,Yes,Yes,Low,Diabetes
+P047,Rohan Sharma,54,Male,20.4,157,205,177,82,No,No,Medium,Heart Disease
+P048,Tina Khanna,49,Male,21.5,148,258,108,70,No,No,Low,Hypertension
+P049,Meena Patel,71,Female,18.6,153,261,120,95,No,Yes,Medium,Diabetes
+P050,Ananya Das,71,Female,26.8,151,237,155,89,Yes,No,Low,Hypertension
+P051,Simran Kaur,79,Female,31.3,123,192,162,93,Yes,Yes,Low,Diabetes
+P052,Rajesh Thakur,46,Female,19.2,114,244,179,74,Yes,Yes,Medium,None
+P053,Kavita Rao,61,Male,23.9,113,237,75,60,Yes,No,High,Diabetes
+P054,Deepa Sethi,45,Female,23.1,121,200,198,79,No,Yes,Medium,Heart Disease
+P055,Meena Patel,42,Male,21.4,134,208,175,87,Yes,No,High,Diabetes
+P056,Rahul Jain,76,Male,21.8,110,157,199,87,No,Yes,Medium,Heart Disease
+P057,Rahul Jain,29,Male,21.5,159,257,174,96,No,Yes,Low,Heart Disease
+P058,Rohan Sharma,80,Female,30.9,151,184,104,68,Yes,No,Medium,Heart Disease
+P059,Priya Singh,72,Female,20.7,147,170,169,82,Yes,Yes,High,Heart Disease
+P060,Rajesh Thakur,80,Female,34.0,119,203,90,96,No,No,Medium,Diabetes
+P061,Vikas Pandey,34,Female,28.9,152,239,145,65,Yes,No,High,Hypertension
+P062,Sneha Gupta,62,Female,33.5,137,181,136,83,Yes,No,Low,Diabetes
+P063,Deepa Sethi,65,Female,32.7,113,179,149,92,Yes,Yes,High,None
+P064,Kavita Rao,70,Female,31.7,119,155,162,97,Yes,Yes,Low,Hypertension
+P065,Rajesh Thakur,45,Male,28.7,142,160,121,67,No,Yes,Low,Heart Disease
+P066,Rajesh Thakur,38,Male,26.9,136,155,183,92,Yes,Yes,Medium,Hypertension
+P067,Priya Singh,48,Female,21.4,112,177,81,70,Yes,Yes,Low,Hypertension
+P068,Vikas Pandey,19,Male,27.5,148,231,72,84,No,No,Low,Hypertension
+P069,Neha Joshi,18,Female,34.5,144,238,71,89,Yes,No,Low,Hypertension
+P070,Priya Singh,21,Male,31.9,111,230,105,100,No,Yes,Low,Heart Disease
+P071,Arjun Verma,33,Female,28.1,114,273,144,65,No,Yes,Medium,Hypertension
+P072,Meena Patel,30,Female,33.0,139,208,187,70,Yes,Yes,Medium,Diabetes
+P073,Simran Kaur,56,Male,32.6,115,277,187,65,No,Yes,Medium,Diabetes
+P074,Neha Joshi,69,Male,23.0,111,154,115,89,No,Yes,Low,None
+P075,Amit Bhatia,30,Male,33.3,111,193,76,78,Yes,Yes,Medium,Diabetes
+P076,Vikas Pandey,67,Male,25.5,159,158,127,77,No,No,High,Heart Disease
+P077,Deepa Sethi,44,Female,27.9,140,156,111,92,No,No,Low,Diabetes
+P078,Neha Joshi,55,Female,31.3,118,161,165,73,Yes,Yes,Low,Diabetes
+P079,Priya Singh,50,Female,21.7,142,187,141,81,No,Yes,Low,Hypertension
+P080,Meena Patel,41,Female,33.1,142,155,174,87,Yes,No,Medium,Diabetes
+P081,Simran Kaur,48,Female,25.7,145,172,95,97,No,No,Low,Hypertension
+P082,Arjun Verma,58,Female,28.5,141,150,188,85,No,Yes,High,Heart Disease
+P083,Meena Patel,49,Female,29.1,110,168,81,68,No,Yes,Low,None
+P084,Pooja Nair,36,Male,24.5,144,250,118,69,Yes,Yes,Medium,Diabetes
+P085,Sneha Gupta,38,Male,33.4,122,171,102,87,No,Yes,Medium,None
+P086,Neha Joshi,42,Female,27.6,114,185,179,63,No,Yes,Low,Diabetes
+P087,Simran Kaur,32,Female,27.4,120,169,152,95,No,Yes,Low,Hypertension
+P088,Suresh Yadav,66,Female,33.0,116,223,173,75,No,Yes,Medium,Heart Disease
+P089,Rajesh Thakur,23,Male,21.7,127,245,133,88,Yes,No,High,Diabetes
+P090,Ajay Kumar,71,Female,28.7,120,247,72,90,No,No,High,Hypertension
+P091,Rajesh Thakur,62,Male,21.9,147,174,190,98,Yes,Yes,Low,None
+P092,Arjun Verma,34,Male,32.1,156,261,98,91,No,No,Low,Diabetes
+P093,Ananya Das,29,Male,20.2,116,257,188,63,Yes,No,Medium,Hypertension
+P094,Meena Patel,67,Male,29.1,112,167,93,93,No,Yes,High,Heart Disease
+P095,Meena Patel,61,Female,23.4,142,162,113,75,No,Yes,Medium,Diabetes
+P096,Neha Joshi,74,Female,35.0,158,184,183,85,Yes,No,High,Heart Disease
+P097,Rohan Sharma,42,Male,32.1,123,159,145,64,No,Yes,Low,Heart Disease
+P098,Vikas Pandey,62,Male,30.2,144,221,129,63,Yes,Yes,Medium,Diabetes
+P099,Amit Bhatia,22,Male,19.1,157,180,168,74,No,Yes,High,Diabetes
+P100,Vikas Pandey,38,Female,22.6,152,211,79,99,No,Yes,High,Diabetes
